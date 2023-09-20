@@ -1,0 +1,35 @@
+#pai {
+    width: 80%;
+    height: 500px;
+    border: solid 3px #000;
+    background-color:rgb(244, 178, 241);
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.bola {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+}
+
+.cor1 {
+    background-color:rgb(227, 123, 227);
+}
+
+.cor2 {
+    background-color:rgb(226, 43, 165);
+}
+
+.cor3 {
+    background-color:rgb(172, 55, 140);
+}
+/* flexbox: elemento flexívek, 
+é com relação aos elementos que há dentro dele; 
+para o começo aplicace a nominação star, para o fin end e meio center */
+ /* display: flex; */
